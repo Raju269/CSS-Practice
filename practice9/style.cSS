@@ -1,0 +1,26 @@
+.container{
+    border: 3px solid black;
+    width: 300px;
+    height: 700px;
+    padding: 40px;
+}
+h1{
+    background-color: yellow;
+}
+.para{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+pre{
+    background-color: black;
+    color: white;
+    padding: 24px;
+    border-radius: 5px;
+    height: 150px;
+    align-items: center;
+}
+ul,li{
+    font-weight: 700;
+}
