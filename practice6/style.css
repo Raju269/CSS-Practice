@@ -1,0 +1,29 @@
+.container{
+    width: 300px;
+    border: 2px solid black;
+    height: 600px;
+    padding: 40px;
+    background-color: aliceblue;
+}
+h1{
+    background-color: yellow;
+}
+.para1{
+    color: red;
+    font-style: italic;
+    font-weight: 600;
+
+}
+li{
+    font-weight: 700;
+    font-size: 17px;
+}
+.para2{
+    border: 2px solid black;
+    display: block;
+    width: 100px;
+    padding: 25px;
+    color: blue;
+    background-color: blanchedalmond;
+    height: 100px;
+}
