@@ -1,0 +1,13 @@
+h1{
+    color: chartreuse;
+    background-color: cadetblue;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
+p{
+    color: darkblue;
+    background-color: yellow;
+    border: 1px solid gold;
+    border-radius: 3px;
+}
