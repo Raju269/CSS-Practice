@@ -1,0 +1,30 @@
+.container{
+    border: 2px solid black;
+    border-radius: 2px;
+    padding: 40px;px;
+    width: 300px;
+    height: 600px;
+}
+h1{
+    background-color: yellow;
+}
+#para{
+    color: red;
+    font-weight: 600;
+    font-style: italic;
+
+}
+pre{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 8px;
+    
+}
+p{
+    color: black;
+}
+.bold1{
+    font-weight: bold;
+}
