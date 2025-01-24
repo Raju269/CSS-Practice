@@ -1,0 +1,59 @@
+.container{
+    width: 300px;
+    height: 670px;
+    border: 3px solid black;
+    padding: 35px;
+
+}
+h1{
+    background-color: yellow;
+
+}
+.para{
+    color: red;
+    font-style: italic;
+    font-weight: bolder;
+}
+pre{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: large;
+    /* text-align: center; */
+    align-items: center;
+
+}
+li{
+    font-weight: 700;
+}
+.red{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.black{
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.blue{
+    color: darkblue;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.lightblue{
+    color: aqua;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.lightgreen{
+    color: lightgreen;
+    font-style: italic;
+    font-weight: bold;
+
+}
