@@ -1,0 +1,12 @@
+li{
+    background: yellow;
+    color: rgb(132, 30, 47);
+    font-size: large;
+}
+input::placeholder{
+    color: red;
+}
+*{
+    margin: 0px;
+    padding:0px;
+}
