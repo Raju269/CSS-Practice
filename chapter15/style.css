@@ -1,0 +1,116 @@
+.red{
+    color: red;
+    display: block;
+    font-size: 20px;
+}
+h1{
+    background: aqua;   
+}
+#border
+{
+    border: 10px solid black;
+    display: inline;
+}
+.green{
+    background-color: darkgreen;
+    color: greenyellow;
+}
+.blue{
+    background: blue;
+    color: white;
+}
+.smaller{
+    font-size: small;
+}
+#small{
+    font-size: small;
+}
+#sm{
+    font-size: small;
+}
+h4,h5,h6{
+    font-size: medium;
+}
+#button{
+    color: red;
+}
+.bg{
+    background: blue;
+    color: red;
+}
+.aqua{
+    background: aqua;
+    font-size: medium;
+    font-weight: bold;
+}
+.shadow{
+    text-shadow: 2px 2px rgb(255, 0, 0);
+}
+.box{
+    border:5px solid palevioletred ;
+    background-color: pink;
+    height: 180px;
+    font-size: larger;
+
+}
+.black{
+    background-color: black;
+    color: white
+    ;
+    /* font-size: larger; */
+}
+.black1{
+    background: black;
+    color: white;
+}
+.green1{
+    color: green;
+    font-size: 20px;
+}
+.box2{
+    border: 2px solid black;
+    background: rgb(192, 101, 101);
+    width: 200px;
+    height: 200px;
+    margin: 12px;
+    text-align: center;
+    /* align-items: center; */
+}
+.box3{
+    border: 2px solid black;
+    background: rgb(200, 59, 59);
+    width: 200px;
+    height: 200px;
+    margin: 12px;
+    text-align: center;
+}
+.box4{
+    border: 2px solid black;
+    background: rgb(186, 122, 122);
+    width: 200px;
+    height: 200px;
+    margin: 12px;
+    text-align: center;
+}
+.box1{
+    border: 2px solid black;
+    background: lightcoral;
+    width: 200px;
+    height: 200px;
+    margin: 12px;
+    text-align: center;
+}
+.boxbig{
+    border: 5px solid palevioletred;
+    width: 500px;
+    height: 500px;
+    background: red;
+    font-size: large;
+}
+.smaller{
+    border: 5px solid palevioletred;
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    font-size: large;
+}
